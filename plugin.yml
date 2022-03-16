@@ -1,6 +1,6 @@
 name: Skywars
+main: ImMagDev/Skywars
 author: ImMagDev
-main: ImMagDev/Main
 version: 1.0.0
 api: 4.0.0
 description: Skywars MiniGame for MagicMC
