@@ -1,5 +1,5 @@
 name: Skywars
-main: ImMagDev/Skywars
+main: Skywars\SkyWars
 author: ImMagDev
 version: 1.0.0
 api: 4.0.0
